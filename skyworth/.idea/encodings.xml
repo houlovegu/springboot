@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/skyworth-common/druid-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/druid-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/mybatis-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/mybatis-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/okhttp-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/okhttp-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/redis-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/redis-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/swagger-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/swagger-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/web-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/skyworth-common/web-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testS3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/testS3/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

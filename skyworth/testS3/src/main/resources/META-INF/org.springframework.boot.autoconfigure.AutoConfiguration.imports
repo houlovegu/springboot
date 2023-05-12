@@ -1,0 +1,5 @@
+com.skyworth.mybatis.config.MybatisPlusConfig
+com.skyworth.druid.config.DruidConfig
+com.skyworth.swagger.config.SwaggerConfig
+com.skyworth.redis.config.RedisConfig
+com.skyworth.okhttp.config.OkHttpConfig
